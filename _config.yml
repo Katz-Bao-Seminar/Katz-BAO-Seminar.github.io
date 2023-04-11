@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KATZ BAO Seminar Series"
+title                    : "Katz BAO Seminar Series"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Katz BAO"
 description              : &description "personal description"
 url                      : https://katz-bao-seminar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Katz BAO"
+  name             : "The Department of Business Analytics and Operations at the University of Pittsburgh"
   avatar           : "Joseph-M-Katz-Graduate-School-of-Business.png"
   bio              : "Webpage for all things related to the Katz BAO Seminar Series"
   location         : "Pittsburgh, PA"
